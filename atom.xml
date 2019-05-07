@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.adherersun.com/"/>
-  <updated>2019-04-01T13:04:45.086Z</updated>
+  <updated>2019-05-07T13:58:07.599Z</updated>
   <id>http://www.adherersun.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>好记性不如烂笔头</title>
+    <link href="http://www.adherersun.com/2019/05/07/%E5%A5%BD%E8%AE%B0%E6%80%A7%E4%B8%8D%E5%A6%82%E7%83%82%E7%AC%94%E5%A4%B4/"/>
+    <id>http://www.adherersun.com/2019/05/07/好记性不如烂笔头/</id>
+    <published>2019-05-07T13:22:44.000Z</published>
+    <updated>2019-05-07T13:58:07.599Z</updated>
+    
+    <content type="html"><![CDATA[<p>即时输出，好记性不如烂笔头。</p><p align="right">——2019.05.07 晚</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;未来的自己，读到了这篇月记，可能会有疑惑，为何是即时而非及时？按照常理来说，及时也是更为恰当的搭配。但是，这里明确的告诉自己，就是<strong>即时</strong>。为什么这么说呢？在上个月，本来自己想着写一篇关于数据加载以及数据处理的博客，或许是因为拖延，亦或许是因为没有那么大的源动力等等原因，但是自己看来，真正的原因就是没有<strong>即时输出</strong>。无论什么事，”即时”未做之后，这件事在后续就会变得越来越不重要，会因为各种原因推迟推迟再推迟，直到最后将这件事情逐渐遗忘以致时间久了以后，再复盘都想不起之前的想法了。所以，更加凸显即时输出的重要性，无论是知识上的输出，还是情感、生活上的输出，即时输出都是重要的。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说完即时输出这个话题，撇开上个月各种”拖延”(本来打算1号的时候写月记，1号的时候因为聚餐，太晚了就拖着，而后的几天又是相似的理由，在4号的时候借着五四的契机，本来想好好的写一篇月记，但是依旧因为莫须有的理由继续拖延，最后下定决心，在考完计算机视觉的晚上，立马完成这个月的月记)，也要讲讲上个月养成的一个好的习惯，那就是充分利用碎片时间，沉浸式的阅读书籍，此时此刻，回想起当时阅读tensorflow &amp; pytorch书籍时的情景，不禁嘴角浅笑起来，这个习惯希望这个月自己再好好保持，当然仍然要注意，对于书上遇到的问题，要及时记录下来，并做好相应的笔记，必要时可以总结一下，该怎么总结，在前面的月记里面也说得比较清楚了。总之一句话，多用自己的话来输出，而非复制粘贴而来的别人的套话，别人的话可以学习借鉴，也可引用，但依旧应当有自己的输出。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天是5月7日，实际上五月份都快过去四分之一了，但是还是应当回首一下上个月的任务，以及对这个月做一个粗略的计划。上个月第一条：</p><blockquote><p>跟代师兄一起完成这篇论文，将代码整理成project的形式；</p></blockquote><p>这个任务遇到了一些不可抗拒的因素：原模型严重过拟合，导致添加的正则项的作用根本体现不出来。而且耗费了大量的时间在这上面，但是也算是有所收获，代码能力比上个月好了一些，知道了怎么自定义数据集，并加载训练。当然，既然是自己做的工作，这个月怎么样也要投出去，但不可盲目，多跟师兄交流。</p><p>第二条：</p><blockquote><p>工具包以及说明文档初步整理完，NLP部分可以有所延后；</p></blockquote><p>这个任务几乎没做，原因是第一条占用了大量的时间，这个月一定要合理安排好时间，并提高效率！</p><p>第三条：</p><blockquote><p>CS 224n学完，跟卢师兄好好沟通，如果一些不太重要而且难度比较大的章节，如果师兄不太建议看的话，那就跳过，后续用到再来学；</p></blockquote><p>没有学完，但应该看完了快一半的内容，难度比想象中的大一些，而且尚没有摸索出比较适合自己的方法来学习这门课程，这个月继续学，不要放弃，也不要继续拖下去。</p><p>第四条：</p><blockquote><p>阅读完pytorch docs，并做好相应的笔记，注意是为自己而看，做实实在在的总结笔记。</p></blockquote><p>这个任务自己做了一些修缮，没有逐字逐句的去翻译，这样做意义不大，适合自己的做法是，从pytorch docs提取出有用的部分，并用自己的话做总结，而非机械性的翻译(这样做实在是得不偿失)，比如：torch.nn包主要含有哪些class，哪些function等等，并按照各自的作用归类。这个月同样继续完成。</p><p>额外完成任务：</p><blockquote><p>完成了大概三 + 0.5本书的粗略阅读，这个是很棒的点，继续保持！</p></blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粗略的分析了上个月的任务完成情况之后，同样的留下这个月的任务：</p><blockquote><p>1.完成论文的投稿，并重构代码，将代码整理成project的形式；<br>2.准备大数据课程 &amp; 图论课程的考试；<br>3.CS 224n继续学，争取学完，学习过程中不断调整自己的学习策略，可以每一两集做一个新的尝试；<br>4.继续读书！利用pytorch docs &amp; 网络上的博客 &amp; 看过的书籍 &amp; 写代码中遇到的问题，开始输出！做实实在在的输出(实实在在的定义：能够说服自己，有充足的成就感)，计划3 ~ 5篇博客</p></blockquote><p>额外任务(考虑到这个月是考试月，如果在效率比较高的情况下，努力完成)：</p><blockquote><p>工具包以及说明文档初步整理完，NLP部分可以有所延后</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;即时输出，好记性不如烂笔头。&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;——2019.05.07 晚&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;未来的自己，读到了这篇月记，可能会有疑惑，为何是即时而非及时
+      
+    
+    </summary>
+    
+      <category term="杂谈" scheme="http://www.adherersun.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+      <category term="杂谈" scheme="http://www.adherersun.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>愚人不愚己</title>
